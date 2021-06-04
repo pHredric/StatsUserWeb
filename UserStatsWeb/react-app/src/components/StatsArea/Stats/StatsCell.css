@@ -1,0 +1,16 @@
+.StatsCell {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.rowHeader {
+    background-color: lightgray;
+}
+
+.ref {
+    background-color: lightgoldenrodyellow;
+}
+
+.foo {
+    background-color: powderblue;
+}

@@ -1,0 +1,15 @@
+#usersArea {
+    border: 1px solid red;
+    float: left;
+    min-width: 20%;
+}
+
+li {
+    text-align: left;
+    list-style-type: none;
+}
+
+li:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}

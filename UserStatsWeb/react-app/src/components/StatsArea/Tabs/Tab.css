@@ -1,0 +1,14 @@
+.tab {
+    border: 1px solid black;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.tab:hover {
+    cursor: pointer;
+}
+
+.active {
+background-color: lightblue;
+}
